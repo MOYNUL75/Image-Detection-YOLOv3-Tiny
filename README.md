@@ -9,13 +9,11 @@ This project demonstrates object detection in static images using **YOLOv3-tiny*
   <div align="center">
     <p>🖼️ Example 1</p>
     <img src="Image/img1.jpg" width="800"/>
-    <p><strong>🖼️ Example 1</strong></p>
   </div>
 
   <div align="center">
     <p>🖼️ Example 2</p>
     <img src="Image/img7.jpg" width="800"/>
-    <p><strong>🖼️ Example 2</strong></p>
   </div>
 </p>
 
