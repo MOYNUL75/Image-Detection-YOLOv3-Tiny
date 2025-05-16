@@ -53,3 +53,33 @@ YOLO_Object_Detection/
 │ └── img.jpg # Output image with detection
 ├── object_detection.ipynb # Main code file
 └── README.md # This file
+
+<h2>📁 Folder Structure</h2>
+
+<pre>
+YOLO_Object_Detection/
+│
+├── yolov3-tiny.cfg             <!-- YOLOv3-tiny configuration file -->
+├── yolov3-tiny.weights         <!-- Pre-trained YOLOv3-tiny weights -->
+├── coco.names                  <!-- Class labels from COCO dataset -->
+├── Image/
+│   ├── Image1.jpeg             <!-- Input image -->
+│   └── img.jpg                 <!-- Output image with detections -->
+├── object_detection.ipynb      <!-- Main code file (Jupyter Notebook) -->
+└── README.md                   <!-- Project description and usage guide -->
+</pre>
+
+
+
+## 📝 Author
+
+<div align="center">
+
+### <strong>Md Moynul Islam</strong>  
+🎓 Undergraduate Student, Computer Science & Engineering  
+🏫 American International University-Bangladesh (AIUB)  
+🔗 <a href="https://github.com/MOYNUL75" target="_blank">GitHub: MOYNUL75</a>  
+📧 Email: <a href="mailto:mmoynulislam2000@gmail.com">mmoynulislam2000@gmail.com</a>
+
+</div>
+
