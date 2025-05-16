@@ -2,61 +2,35 @@
 
 This project demonstrates object detection in static images using **YOLOv3-tiny** and **OpenCV** in Python. The model detects and labels multiple objects with bounding boxes, using pretrained weights trained on the COCO dataset.
 
+-------------------------------
 ## 📷 Example Output
 
 ### 🖼️ Example 1  
-![Detected Output](Image/img1.jpg)
-
-### 🖼️ Example 2 
-![Detected Output](Image/img7.jpg)
-
-------
-## 📷 Example Output
-
-### 🖼️ Example 1  
-<img src="Image/img1.jpg" width="800" style="margin-right: 20px;"/>
+<img src="Image/img1.jpg" width="1000" style="margin-right: 20px;"/>
 
 ---
 
 ### 🖼️ Example 2  
-<img src="Image/img7.jpg" width="800"/>
+<img src="Image/img7.jpg" width="1000"/>
 
----
+-------------------------------
 
 ## 📷 Example Output
 
 <p float="left">
   <div align="center">
-    <img src="Image/img1.jpg" width="400"/>
+    <img src="Image/img1.jpg" width="1000"/>
     <p><strong>Example 1</strong></p>
   </div>
   &nbsp;&nbsp;&nbsp;
   <div align="center">
-    <img src="Image/img7.jpg" width="400"/>
+    <img src="Image/img7.jpg" width="1000"/>
     <p><strong>Example 2</strong></p>
   </div>
 </p>
 
 -----------------
-## 📷 Example Output
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="Image/img1.jpg" width="100%">
-        <p><strong>Example 1</strong></p>
-      </td>
-      <td style="width: 40px;"></td> <!-- spacing -->
-      <td align="center">
-        <img src="Image/img7.jpg" width="100%">
-        <p><strong>Example 2</strong></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
------------------
 ## ✅ Features
 
 - Object detection using **YOLOv3-tiny**
