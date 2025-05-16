@@ -43,19 +43,6 @@ This project demonstrates object detection in static images using **YOLOv3-tiny*
 
 ## 📁 Folder Structure
 
-YOLO_Object_Detection/
-│
-├── yolov3-tiny.cfg
-├── yolov3-tiny.weights
-├── coco.names
-├── Image/
-│ ├── Image1.jpeg # Input image
-│ └── img.jpg # Output image with detection
-├── object_detection.ipynb # Main code file
-└── README.md # This file
-
-<h2>📁 Folder Structure</h2>
-
 <pre>
 YOLO_Object_Detection/
 │
