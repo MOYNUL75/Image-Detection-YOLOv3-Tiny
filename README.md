@@ -7,6 +7,7 @@ This project demonstrates object detection in static images using **YOLOv3-tiny*
 ![Detected Output](Image/img1.jpg)
 ![Detected Output](Image/img7.jpg)
 
+------
 ## 📷 Example Output
 
 ### 🖼️ Example 1  
@@ -19,6 +20,40 @@ This project demonstrates object detection in static images using **YOLOv3-tiny*
 
 ---
 
+## 📷 Example Output
+
+<p float="left">
+  <div align="center">
+    <img src="Image/img1.jpg" width="400"/>
+    <p><strong>Example 1</strong></p>
+  </div>
+  &nbsp;&nbsp;&nbsp;
+  <div align="center">
+    <img src="Image/img7.jpg" width="400"/>
+    <p><strong>Example 2</strong></p>
+  </div>
+</p>
+
+-----------------
+## 📷 Example Output
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="Image/img1.jpg" width="100%">
+        <p><strong>Example 1</strong></p>
+      </td>
+      <td style="width: 40px;"></td> <!-- spacing -->
+      <td align="center">
+        <img src="Image/img7.jpg" width="100%">
+        <p><strong>Example 2</strong></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+-----------------
 ## ✅ Features
 
 - Object detection using **YOLOv3-tiny**
